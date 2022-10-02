@@ -28,7 +28,7 @@ class _HomeScreenState extends State<HomeScreen> {
                   ),
                   thickness: MaterialStateProperty.all(10),
                   crossAxisMargin: 8,
-                  trackColor: MaterialStateProperty.all(Colors.pink.shade100),
+                  trackColor: MaterialStateProperty.all(Colors.pink.shade200),
                   trackBorderColor: MaterialStateProperty.all(Colors.pink),
                   radius:const Radius.circular(10),
                 ),
